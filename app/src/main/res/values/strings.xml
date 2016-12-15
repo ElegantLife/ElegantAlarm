@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ElegantAlarm</string>
+    <string name="never">Never</string>
+    <string name="every_day">Every Day</string>
+</resources>
